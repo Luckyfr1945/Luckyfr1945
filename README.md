@@ -87,9 +87,9 @@ Found a bug in my kernel? Open an issue or tell me on Telegram.
 ---
 
 <p align="center">
-  <a href="https://github.com/Luckyfr1945/ki-kernel/releases"><img src="https://img.shields.io/github/downloads/Luckyfr1945/ki-kernel/total?style=for-the-badge&logo=github&label=Downloads" alt="Downloads"></a>
-  <a href="https://github.com/Luckyfr1945/ki-kernel/releases/latest"><img src="https://img.shields.io/github/v/release/Luckyfr1945/ki-kernel?style=for-the-badge&label=Latest" alt="Latest release"></a>
-  <a href="https://github.com/Luckyfr1945/ki-kernel"><img src="https://img.shields.io/github/stars/Luckyfr1945/ki-kernel?style=for-the-badge&label=Stars" alt="Stars"></a>
-  <a href="https://github.com/Luckyfr1945"><img src="https://img.shields.io/github/followers/Luckyfr1945?style=for-the-badge&label=Followers" alt="Followers"></a>
-  <a href="https://t.me/+i7NfuXZA6mZjOWJl"><img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://github.com/Luckyfr1945/ki-kernel/releases"><img src="https://img.shields.io/github/downloads/Luckyfr1945/ki-kernel/total?style=flat-square&logo=github&logoColor=white&label=Downloads&labelColor=0d1117&color=2ea043" alt="Downloads"></a>
+  <a href="https://github.com/Luckyfr1945/ki-kernel/releases/latest"><img src="https://img.shields.io/github/v/release/Luckyfr1945/ki-kernel?style=flat-square&logo=android&logoColor=white&label=Latest&labelColor=0d1117&color=3ddc84" alt="Latest release"></a>
+  <a href="https://github.com/Luckyfr1945/ki-kernel"><img src="https://img.shields.io/github/stars/Luckyfr1945/ki-kernel?style=flat-square&logo=starship&logoColor=white&label=Stars&labelColor=0d1117&color=e3b341" alt="Stars"></a>
+  <a href="https://github.com/Luckyfr1945"><img src="https://img.shields.io/github/followers/Luckyfr1945?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=0d1117&color=8957e5" alt="Followers"></a>
+  <a href="https://t.me/+i7NfuXZA6mZjOWJl"><img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram"></a>
 </p>
