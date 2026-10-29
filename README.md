@@ -34,7 +34,7 @@ Here are some of my repositories:
 - School Website Project
 - Android Module Project
 - Service Documentation
-![Downloads](https://img.shields.io/github/downloads/Luckyfr1945/ki-kernel/total?style=for-the-badge)
+  
 Check my repositories to see more.
 
 ---
@@ -51,3 +51,5 @@ Check my repositories to see more.
 ## Contact
 
 GitHub: https://github.com/Luckyfr1945
+
+![Downloads](https://img.shields.io/github/downloads/Luckyfr1945/ki-kernel/total?style=for-the-badge&logo=github&logoColor=white&label=DOWNLOADS)
