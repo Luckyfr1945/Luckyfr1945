@@ -3,7 +3,7 @@
 🎓 SMK Student - Computer & Network Engineering (TJKT)  
 📍 Indonesia  
 
-![Downloads](https://img.shields.io/github/downloads/Luckyfr1945/ki-kernel/total?style=social&logo=github)
+[Ki-kernel](#main-project-ki-kernel) · [Skills](#skills) · [Projects](#other-projects) · [Contact](#contact)
 
 ---
 
@@ -37,6 +37,7 @@ What's inside:
 Download: [latest release](https://github.com/Luckyfr1945/ki-kernel/releases/latest)  
 Updates and bug reports: [Telegram channel](https://t.me/+i7NfuXZA6mZjOWJl)
 
+> [!WARNING]
 > Flash at your own risk. Always back up your boot image first.
 
 ---
@@ -87,9 +88,12 @@ Found a bug in my kernel? Open an issue or tell me on Telegram.
 ---
 
 <p align="center">
-  <a href="https://github.com/Luckyfr1945/ki-kernel/releases"><img src="https://img.shields.io/github/downloads/Luckyfr1945/ki-kernel/total?style=flat-square&logo=github&logoColor=white&label=Downloads&labelColor=0d1117&color=2ea043" alt="Downloads"></a>
-  <a href="https://github.com/Luckyfr1945/ki-kernel/releases/latest"><img src="https://img.shields.io/github/v/release/Luckyfr1945/ki-kernel?style=flat-square&logo=android&logoColor=white&label=Latest&labelColor=0d1117&color=3ddc84" alt="Latest release"></a>
-  <a href="https://github.com/Luckyfr1945/ki-kernel"><img src="https://img.shields.io/github/stars/Luckyfr1945/ki-kernel?style=flat-square&logo=starship&logoColor=white&label=Stars&labelColor=0d1117&color=e3b341" alt="Stars"></a>
-  <a href="https://github.com/Luckyfr1945"><img src="https://img.shields.io/github/followers/Luckyfr1945?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=0d1117&color=8957e5" alt="Followers"></a>
-  <a href="https://t.me/+i7NfuXZA6mZjOWJl"><img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram"></a>
+  <a href="https://github.com/Luckyfr1945/ki-kernel/releases"><img src="https://img.shields.io/github/downloads/Luckyfr1945/ki-kernel/total?style=for-the-badge&labelColor=1e1e2e&logoColor=cdd6f4&logo=github&label=Downloads&color=a6e3a1" alt="Downloads"></a>
+  <a href="https://github.com/Luckyfr1945/ki-kernel/releases/latest"><img src="https://img.shields.io/github/v/release/Luckyfr1945/ki-kernel?style=for-the-badge&labelColor=1e1e2e&logoColor=cdd6f4&logo=android&label=Latest&color=89b4fa" alt="Latest"></a>
+  <a href="https://github.com/Luckyfr1945/ki-kernel"><img src="https://img.shields.io/github/stars/Luckyfr1945/ki-kernel?style=for-the-badge&labelColor=1e1e2e&logoColor=cdd6f4&logo=starship&label=Stars&color=f9e2af" alt="Stars"></a>
+  <a href="https://t.me/+i7NfuXZA6mZjOWJl"><img src="https://img.shields.io/badge/Telegram-Join-cba6f7?style=for-the-badge&labelColor=1e1e2e&logoColor=cdd6f4&logo=telegram" alt="Telegram"></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luckyfr1945&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e" alt="GitHub stats" height="150">
 </p>
