@@ -52,4 +52,4 @@ Check my repositories to see more.
 
 GitHub: https://github.com/Luckyfr1945
 
-![Downloads](https://img.shields.io/github/downloads/Luckyfr1945/ki-kernel/total?style=for-the-badge&logo=github&logoColor=white&label=DOWNLOADS)
+![Downloads](https://img.shields.io/github/downloads/Luckyfr1945/ki-kernel/total?style=social&logo=github)
