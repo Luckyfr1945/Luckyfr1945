@@ -3,7 +3,7 @@
 🎓 SMK Student - Computer & Network Engineering (TJKT)  
 📍 Indonesia  
 
-[Ki-kernel](#main-project-ki-kernel) · [Skills](#skills) · [Projects](#other-projects) · [Contact](#contact)
+[Ki-kernel](#main-project-ki-kernel) · [Skills](#skills) · [Projects](#other-projects) · [Stats](#-github-stats) · [Contact](#contact)
 
 ---
 
@@ -78,6 +78,19 @@ Check my repositories to see more.
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luckyfr1945&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=a6e3a1&icon_color=cba6f7&ring_color=89b4fa&rank_icon=github" alt="GitHub stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyfr1945&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=a6e3a1&langs_count=8" alt="Top languages" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luckyfr1945&hide_border=true&background=1e1e2e&ring=89b4fa&fire=f9e2af&currStreakNum=cdd6f4&sideNums=89b4fa&currStreakLabel=cba6f7&sideLabels=89b4fa&dates=a6e3a1" alt="GitHub streak">
+</p>
+
+---
+
 ## Contact
 
 GitHub: https://github.com/Luckyfr1945  
@@ -92,8 +105,4 @@ Found a bug in my kernel? Open an issue or tell me on Telegram.
   <a href="https://github.com/Luckyfr1945/ki-kernel/releases/latest"><img src="https://img.shields.io/github/v/release/Luckyfr1945/ki-kernel?style=for-the-badge&labelColor=1e1e2e&logoColor=cdd6f4&logo=android&label=Latest&color=89b4fa" alt="Latest"></a>
   <a href="https://github.com/Luckyfr1945/ki-kernel"><img src="https://img.shields.io/github/stars/Luckyfr1945/ki-kernel?style=for-the-badge&labelColor=1e1e2e&logoColor=cdd6f4&logo=starship&label=Stars&color=f9e2af" alt="Stars"></a>
   <a href="https://t.me/+i7NfuXZA6mZjOWJl"><img src="https://img.shields.io/badge/Telegram-Join-cba6f7?style=for-the-badge&labelColor=1e1e2e&logoColor=cdd6f4&logo=telegram" alt="Telegram"></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luckyfr1945&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e" alt="GitHub stats" height="150">
 </p>
