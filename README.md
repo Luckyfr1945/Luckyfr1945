@@ -78,11 +78,11 @@ Check my repositories to see more.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luckyfr1945&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=a6e3a1&icon_color=cba6f7&ring_color=89b4fa&rank_icon=github" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyfr1945&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=a6e3a1&langs_count=8" alt="Top languages" height="170">
+  <img src="https://github-readme-stats-phi-ten-n49d6hvdix.vercel.app/api?username=Luckyfr1945&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=a6e3a1&icon_color=cba6f7&ring_color=89b4fa&rank_icon=github" alt="GitHub stats" height="170">
+  <img src="https://github-readme-stats-phi-ten-n49d6hvdix.vercel.app/api/top-langs/?username=Luckyfr1945&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=a6e3a1&langs_count=8" alt="Top languages" height="170">
 </p>
 
 <p align="center">
